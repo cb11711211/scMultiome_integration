@@ -1,0 +1,4 @@
+# scMultiomics integration
+With the devlopment of laboratory single-cell multiomics profiling methods, how to integrate the features extracted from each modality and gain the abitlity to find the intermedian states clusters of cells has become the shooting task for bioinformatics. 
+To stress out the problem when dealing with single-cell integration analysis and compare the best one across the promising computational integration methods, the researchers have established a open problem competetion in kaggle to incourage the development of new integration analysis tools and models.
+This repo will store a plenty of resources that could be used to develop the novel integration methods including the data, task and others. 
